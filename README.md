@@ -16,7 +16,7 @@ Found me !!
   <img src="https://img.shields.io/badge/-React.js-61dafb" alt="badge" />
   <img src="https://img.shields.io/badge/-Redux.js-764abc" alt="badge" />
   <img src="https://img.shields.io/badge/-Gatsby.js-542c85" alt="badge" />
-  <img src="https://img.shields.io/badge/-SCSS-3fedff" alt="badge" />
+<!--   <img src="https://img.shields.io/badge/-SCSS-3fedff" alt="badge" /> -->
   <img src="https://img.shields.io/badge/-C%2B%2B-red" alt="badge" />
 </p>
 
