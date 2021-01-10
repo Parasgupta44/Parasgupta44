@@ -3,7 +3,7 @@ Found me !!
  
 - 🔭 Currently working on React, Node, Deep Learning Stuff.
 - 📫 Always looking to collaborate on some awesome open-source projects. 
-- 💜 My personal site / blog: [Paras](https://guptaparas.in/)
+- 💜 My personal site / blog: [Paras](https://guptaparas.in/) / [Blog](https://guptaparas.in/blogIndex/)
 - ⚡ Fun fact: Searching...
 
 ### Key Skills 🔧
