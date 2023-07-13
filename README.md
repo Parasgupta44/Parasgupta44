@@ -1,3 +1,4 @@
+<!--
 ### Hey you 👋
 Found me !!
  
@@ -5,7 +6,7 @@ Found me !!
 - Always looking to collaborate on some awesome open-source projects. 
 - My personal site / blog: [Paras](https://guptaparas.in/) / [Blog](https://guptaparas.in/blogIndex/)
 - Some fact: Searching...
-
+-->
 
 <!--
 ### Key Skills 🔧
